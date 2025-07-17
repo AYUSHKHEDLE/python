@@ -1,2 +1,1 @@
-# python
-complete python from basic
+print( "hello world" )
